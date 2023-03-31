@@ -8,7 +8,7 @@ A DagaCubes Player Transactions API using [Spring Boot](http://projects.spring.i
 
 For building and running the application you need:
 
-- [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [JDK 11](https://www.oracle.com/java/technologies/downloads/#java11)
 - [Maven 3](https://maven.apache.org)
 - [Spring Boot 2.7.9](https://docs.spring.io/spring-boot/docs/2.7.9/reference/html/)
 
@@ -30,4 +30,4 @@ run `main` method inside `co.za.anele.dagacubesplayerapi.DagaCubesPlayerApiAppli
 ## Accessing Swagger
 - You can explore the api on [swagger](http://localhost:8080/swagger-ui/index.html)
 
-Released under the Apache License 2.0. See the [LICENSE](https://github.com/AneleMgciniMdolomba/dagacubes-player-transaction-api/blob/master/LICENSE) file.
+Released under the Apache License 2.0. See the [LICENSE](https://github.com/AneleMgciniMdolomba/dagacubes-player-api/blob/master/LICENSE) file.
