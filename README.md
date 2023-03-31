@@ -29,5 +29,6 @@ run `main` method inside `co.za.anele.dagacubesplayerapi.DagaCubesPlayerApiAppli
 
 ## Accessing Swagger
 - You can explore the api on [swagger](http://localhost:8080/swagger-ui/index.html)
+- On start up, one player is loaded with id 1L and username JamesBond007 you can use
 
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/AneleMgciniMdolomba/dagacubes-player-api/blob/master/LICENSE) file.
